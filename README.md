@@ -138,4 +138,4 @@ Open `sales_analysis.ipynb` in VS Code or Jupyter, select the `.venv` kernel and
 
 ---
 
-**Author:** Tanvi | [LinkedIn](#) | [GitHub](#)
+**Author:** Tanvi | [LinkedIn](www.linkedin.com/in/tanvibhardwaj-data) | [GitHub](https://github.com/Tanvibhardwaj-006.git)
